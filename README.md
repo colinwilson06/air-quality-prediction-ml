@@ -60,7 +60,7 @@ Dataset: *Air Quality and Pollution Assessment* (Kaggle)
 https://youtu.be/SvFmxusv1PM
 
 ## Documentation
-- [Project Report (PDF)](docs/laporan_aol_ml_1.pdf)
+- [Project Report (PDF)](docs/Laporan_AOL_ML(1).pdf)
 - [Screenshots](docs/Screenshots/)
 
 ## Tim 
