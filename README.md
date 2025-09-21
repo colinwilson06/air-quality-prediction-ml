@@ -52,8 +52,18 @@ Dataset: *Air Quality and Pollution Assessment* (Kaggle)
 
 ## Hasil Model
 
-Random Forest: Akurasi 96%
-XGBoost: Akurasi 96%
-Voting Classifier (Weighted 2:1): Akurasi 97%
+- Random Forest: Akurasi 96%
+- XGBoost: Akurasi 96%
+- Voting Classifier (Weighted 2:1): Akurasi 97%
 
+## Video Demo
+https://youtu.be/SvFmxusv1PM
 
+## Documentation
+- [Project Report (PDF)](docs/laporan_aol_ml_1.pdf)
+- [Screenshots](docs/Screenshots/)
+
+## Tim 
+- Colin Wilson – Model, Laporan
+- David Arifin – Model, Laporan
+- Kenneth Angelo Sulaiman – Integrasi model & Streamlit, Deployment, Laporan
